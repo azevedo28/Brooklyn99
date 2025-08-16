@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Broocklyn99">
         <activity
+            android:name=".Perso"
+            android:exported="false" />
+        <activity
+            android:name=".Mostrarpersonagens"
+            android:exported="false" />
+        <activity
+            android:name=".Listapersonagens"
+            android:exported="false" />
+        <activity
             android:name=".adaptador"
             android:exported="false" />
         <activity
